@@ -89,6 +89,7 @@
                         <a href="{{ url('login') }}" class="link text-white">Login</a>
                         <a href="{{ url('register') }}" class="link text-white">Register</a>
                         <a href="{{ url('contact') }}" class="link text-white">Contact</a>
+                        <a href="{{ url('add_major') }}" class="link text-white">Add Major</a>
                     </div>
                 </div>
             </div>
